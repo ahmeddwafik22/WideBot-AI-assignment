@@ -4,6 +4,6 @@
 
 | Model          | Accuracy |
 | -------------- | -------- |
-| Logistic Regrsiion| 84%   |
+| Logistic Regression| 84%   |
 | Random Forest        | 82%   |
 | XgBoost        | 82%   |
