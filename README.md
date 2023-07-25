@@ -1,5 +1,8 @@
 # WideBot-AI-assignment
 
+## Task2 Plotly graphs shown on the notebook Kaggle link:
+https://www.kaggle.com/code/ahmedwafik/task2
+
 ## Task3 Model Evaluation 
 
 | Model          | Accuracy |
